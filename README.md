@@ -21,4 +21,4 @@ Este es un proyecto web ficticio de una tienda de iPhones ubicada en **Buenos Ai
 - SEO básico
 
 ## 📝 Autor
-Proyecto final ficticio - Buenos Aires, 2025
+Proyecto final agustin torrilla - Buenos Aires, 2025
